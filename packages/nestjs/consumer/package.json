@@ -8,6 +8,9 @@
   "author": "Alpha",
   "description": "NestJS package for consumer",
   "homepage": "https://github.com/zgid123/rabbitmq-ts",
+  "bugs": {
+    "url": "https://github.com/zgid123/rabbitmq-ts/issues"
+  },
   "keywords": [
     "rabbitmq",
     "rabbitmq-ts",
